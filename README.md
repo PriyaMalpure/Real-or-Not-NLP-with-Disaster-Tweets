@@ -11,5 +11,5 @@ The `location` the tweet was sent from.
 
 There are 2 parts to this repo.
 
-`data_analysis.py` contains the Exploratory Data Analysis part, which includes the preprocessing, cleaning code and visualizations.
-`modeling.py` contains the modeling code. 
+`data_analysis.ipynb` contains the Exploratory Data Analysis part, which includes the preprocessing, cleaning code and visualizations.
+`modeling.ipynb` contains the modeling code. 
